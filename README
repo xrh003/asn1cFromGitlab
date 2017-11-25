@@ -1,4 +1,3 @@
-# asn1cFromGitlab
 WHAT TO READ?
 =============
 
@@ -53,7 +52,7 @@ by the compiler.
 
 	asn1c -EF <module-to-test.asn1>		# Check semantic validity
 
-
+
 MODEL OF OPERATION
 ==================
 
